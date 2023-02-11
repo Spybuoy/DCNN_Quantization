@@ -1,3 +1,4 @@
+# Introduction
 Quantization is a process of reducing the number of bits required to represent a number, in this case, the weights and activations in a deep convolutional neural network (DCNN). This can result in a smaller model size, faster inference time, and reduced memory consumption, making it useful for deployment on edge devices with limited resources.
 
 We will be discussing the process of quantizing a DCNN using PyTorch, a popular deep learning framework.
